@@ -5,6 +5,8 @@ Suatu aplikasi dimana kita bisa mencari Weton Jawa dan Zodiak serta gambaran umu
 
 <h2>Status</h2>
 
-Menyelesaikan aplikasi ramalan zodiak dan weton berbasis web. Project dimulai pada tanggal 10/1/2022 dan selesai pada tanggal 12/1/2022. Aplikasi ini di hosting ke blogspot sebagai uji coba sementara ataupun bisa selamanya.
+Menyelesaikan aplikasi ramalan zodiak dan weton berbasis web. Project dimulai pada tanggal (10/1/2022) dan selesai pada tanggal (12/1/2022). Aplikasi ini di hosting ke blogspot sebagai uji coba sementara ataupun bisa selamanya.
+
+Selamat mencoba!
 
 <a href="https://www.samuelpasaribu.com/2022/01/aplikasi-ramalan-zodiak-dan-weton.html">Read More &gt;&gt;</a>
